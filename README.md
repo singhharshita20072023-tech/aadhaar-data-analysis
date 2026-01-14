@@ -108,6 +108,20 @@ All analysis is implemented using Python libraries.
 ---
 
 ## 7. Project Structure
+aadhaar-data-analysis/
+│
+├── data/
+│   ├── aadhaar_enrolment.csv
+│   ├── aadhaar_demographic_update.csv
+│   └── aadhaar_biometric_update.csv
+│
+├── scripts/
+│   └── aadhaar_analysis.py
+│
+├── README.md
+└── requirements.txt
+
+
 
 
 
